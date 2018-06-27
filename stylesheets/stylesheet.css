@@ -4,14 +4,14 @@ body {
 
 	font-size: 16px;
 	line-height: 1.5;
-	color: #333;
-	background-color: #efffff;
+	color: #fff;
+	background-color: #3a3a3a;
 }
 
 a {
 	text-decoration: none;
 	font-weight: bold;
-	color: black;
+	color: #fff;
 }
 
 a:hover {
@@ -19,42 +19,20 @@ a:hover {
 }
 
 .top {
+	padding-left: 5%;
 	padding-top: 40px;
-	width: 100%;
-	text-align: center;
-	font-family: 'Droid Serif', serif;
+	text-align: left;
+	font-family: 'Share Tech Mono', serif;
 }
 
 #name {
-	font-size: 65px;
-	font-family: 'Raleway', sans-serif;
-}
-
-.sectionstable {
-	width: 100%;
-	display: table;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	font-size: 10px;
+	font-family: 'Share Tech Mono', sans-serif;
 }
 
 .section {
-	display: table-row;
-}
-
-.content {
-	display: table-cell;
+	padding-left: 5%;
 	text-align: left;
-	font-family: 'Droid Serif', serif;
-	padding-top: 0px;
-	padding-left: 40px;
-	vertical-align: top;
+	font-family: 'Share Tech Mono', serif;
 }
 
-.sectiontitle {
-	width: 40%;
-	display: table-cell;
-	font-family: 'Raleway', sans-serif;
-	font-size: 40px;
-	text-align: right;
-	vertical-align: top;
-}
