@@ -4,14 +4,13 @@ body {
 
 	font-size: 16px;
 	line-height: 1.5;
-	color: #fff;
-	background-color: #3a3a3a;
+	color: #000;
+	background-color: #eee;
 }
 
 a {
 	text-decoration: none;
-	font-weight: bold;
-	color: #fff;
+	color: #000;
 }
 
 a:hover {
@@ -19,20 +18,19 @@ a:hover {
 }
 
 .top {
-	padding-left: 5%;
 	padding-top: 40px;
-	text-align: left;
-	font-family: 'Share Tech Mono', serif;
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
 }
 
 #name {
-	font-size: 10px;
-	font-family: 'Share Tech Mono', sans-serif;
+	font-size: 60px;
+	font-family: 'Helvetica', sans-serif;
 }
 
 .section {
 	padding-left: 5%;
 	text-align: left;
-	font-family: 'Share Tech Mono', serif;
+	font-family: 'Helvetica', sans-serif;
 }
 
